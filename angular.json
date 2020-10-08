@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fmovies"
+    }
+  },
+  "defaultProject": "fmovies",
+  "cli": {
+    "analytics": "75806fe2-2d1a-4e33-9283-b84047dc99f1"
+  }
 }

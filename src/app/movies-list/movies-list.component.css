@@ -1,0 +1,4 @@
+::ng-deep .multiselect-dropdown .dropdown-btn .dropdown-down {
+    display: none !important;
+   
+}
